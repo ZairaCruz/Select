@@ -1,0 +1,23 @@
+.emphasis{
+	font-style: italic;
+	font-size: 1.9em;
+	color: #000080;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+}
+.disabled{
+	color: gray;
+}
+.selected{
+	font-weight: bold;
+	color: #c0c0c0;
+}
+fieldset{
+	border-color: #cecece;
+	margin: 20px;
+	width: 600px;
+	position: absolute;
+}
+.errors{
+	font-style: italic;
+	color: #ff0080;
+}
